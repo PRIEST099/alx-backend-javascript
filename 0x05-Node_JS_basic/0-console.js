@@ -1,8 +1,10 @@
 /**
- * Displays message to STDOUT
- * @param {String} d message to display
- * @returns nothing
+ * Displays a message on the STDOUT.
+ * @param {String} msg The message to display.
+ * @author Bezaleel Olakunori <https://github.com/B3zaleel>
  */
-const displayMessage = (d) => console.log(d);
+const displayMessage = (msg) => {
+  console.log(msg);
+};
 
 module.exports = displayMessage;
