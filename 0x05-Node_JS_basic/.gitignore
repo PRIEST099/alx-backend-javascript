@@ -1,5 +1,4 @@
 node_modules/
 *-main.js
-database.csv
 babel.config.js
 .eslintrc.js
